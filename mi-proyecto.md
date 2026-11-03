@@ -1,19 +1,18 @@
-# Mi tema
+# Muntanyes
 
-**Nombre:** escribe tu nombre
+**Nombre:** Roser
 
 ## Descripción
 
-Escribe tres frases con tus propias palabras sobre el tema elegido.
+Muntanyes de Mèxic
+Aconcagua
+La Meije
 
 ## Imagen
 
-Cuando hayas subido tu imagen, añade una línea como esta, sin las comillas invertidas:
+![Boira a la muntanya](images/imatge_prova.jpg)
 
-`![Descripción de la imagen](images/mi-imagen.jpg)`
 
 ## Fuente
 
-[Título de la fuente](https://example.org)
-
-Sustituye el enlace de ejemplo por una fuente real. Indica la autoría y el permiso de uso de la imagen cuando corresponda.
+[Wikipedia](https://es.wikipedia.org/wiki/Aconcagua)
